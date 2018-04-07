@@ -1,0 +1,15 @@
+{
+  "manifest_version": 2,
+  "name": "AnalfabetaFuncional",
+  "version": "0.1",
+  "description": "Reemplaza el nombre de Javier Lozano por su verdadera identidad: Analfabeta Funcional. Esta versión funciona en Twitter.",
+
+  "permissions": ["*://*/*"],
+
+  "content_scripts": [
+    {
+      "matches": ["*://*/*"],
+      "js": ["replaceWord.js"]
+    }
+  ]
+}
