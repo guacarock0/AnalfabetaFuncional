@@ -10,4 +10,4 @@ Extensión de Chrome que sustituye el nombre de Javier Lozano por la acertada de
 6. Seleccionar "Cargar extensión sin empaquetar". Se abrirá una ventana para seleccionar archivos.
 7. Buscar la carpeta que se creó al descomprimir el archivo ZIP y seleccionarla (sólo seleccionar la carpeta)
 8. Click en el botón "Seleccionar"
-9. Listo. Ahora cualquier página que visites donde se mencione a Javier Lozano, tendrá su verdadera descripcion: Analfabeta Funcional.
+9. Listo. Ahora cualquier página que visites donde se mencione a Javier Lozano tendrá su verdadera descripcion: Analfabeta Funcional.
